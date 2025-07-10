@@ -1,0 +1,222 @@
+[
+  {
+    "model": "libros.libro",
+    "pk": 1,
+    "fields": {
+      "titulo": "Cien años de soledad",
+      "autor": "Gabriel García Márquez",
+      "descripcion": "Una obra maestra de la literatura latinoamericana.",
+      "fecha_publicacion": "1967-06-05",
+      "isbn": "9780307474728"
+    }
+  },
+  {
+    "model": "libros.libro",
+    "pk": 2,
+    "fields": {
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "descripcion": "Distopía clásica sobre vigilancia y poder.",
+      "fecha_publicacion": "1949-06-08",
+      "isbn": "9780451524935"
+    }
+  },
+  {
+    "model": "libros.libro",
+    "pk": 3,
+    "fields": {
+      "titulo": "El principito",
+      "autor": "Antoine de Saint-Exupéry",
+      "descripcion": "Un cuento filosófico y poético.",
+      "fecha_publicacion": "1943-04-06",
+      "isbn": "9780156013987"
+    }
+  },
+  {
+    "model": "libros.libro",
+    "pk": 4,
+    "fields": {
+      "titulo": "Don Quijote de la Mancha",
+      "autor": "Miguel de Cervantes",
+      "descripcion": "La historia de un caballero que confunde la realidad con la fantasía.",
+      "fecha_publicacion": "1605-01-01",
+      "isbn": "9788491050216"
+    }
+  },
+  {
+    "model": "libros.libro",
+    "pk": 5,
+    "fields": {
+      "titulo": "Crónica de una muerte anunciada",
+      "autor": "Gabriel García Márquez",
+      "descripcion": "Una novela breve basada en hechos reales.",
+      "fecha_publicacion": "1981-01-01",
+      "isbn": "9780307387349"
+    }
+  },
+  {
+    "model": "libros.libro",
+    "pk": 6,
+    "fields": {
+      "titulo": "Fahrenheit 451",
+      "autor": "Ray Bradbury",
+      "descripcion": "Una distopía donde los libros están prohibidos.",
+      "fecha_publicacion": "1953-10-19",
+      "isbn": "9781451673319"
+    }
+  },
+  {
+    "model": "libros.libro",
+    "pk": 7,
+    "fields": {
+      "titulo": "Rayuela",
+      "autor": "Julio Cortázar",
+      "descripcion": "Una novela experimental que rompe con la narrativa tradicional.",
+      "fecha_publicacion": "1963-01-01",
+      "isbn": "9788437602287"
+    }
+  },
+  {
+    "model": "libros.libro",
+    "pk": 8,
+    "fields": {
+      "titulo": "La sombra del viento",
+      "autor": "Carlos Ruiz Zafón",
+      "descripcion": "Un joven descubre un libro maldito que cambia su vida.",
+      "fecha_publicacion": "2001-04-01",
+      "isbn": "9788408172176"
+    }
+  },
+  {
+    "model": "libros.libro",
+    "pk": 9,
+    "fields": {
+      "titulo": "Ensayo sobre la ceguera",
+      "autor": "José Saramago",
+      "descripcion": "Una epidemia de ceguera blanca afecta a una ciudad.",
+      "fecha_publicacion": "1995-01-01",
+      "isbn": "9788483462033"
+    }
+  },
+  {
+    "model": "libros.libro",
+    "pk": 10,
+    "fields": {
+      "titulo": "El amor en los tiempos del cólera",
+      "autor": "Gabriel García Márquez",
+      "descripcion": "Una historia de amor que sobrevive al paso del tiempo.",
+      "fecha_publicacion": "1985-01-01",
+      "isbn": "9780307389732"
+    }
+  },
+  {
+    "model": "libros.libro",
+    "pk": 11,
+    "fields": {
+      "titulo": "Pedro Páramo",
+      "autor": "Juan Rulfo",
+      "descripcion": "Un hijo busca a su padre en un pueblo de muertos.",
+      "fecha_publicacion": "1955-01-01",
+      "isbn": "9789681607637"
+    }
+  },
+  {
+    "model": "libros.libro",
+    "pk": 12,
+    "fields": {
+      "titulo": "La tregua",
+      "autor": "Mario Benedetti",
+      "descripcion": "Un diario íntimo sobre el amor y la rutina.",
+      "fecha_publicacion": "1960-01-01",
+      "isbn": "9789682326186"
+    }
+  },
+  {
+    "model": "libros.libro",
+    "pk": 13,
+    "fields": {
+      "titulo": "La casa de los espíritus",
+      "autor": "Isabel Allende",
+      "descripcion": "Una saga familiar con elementos mágicos y políticos.",
+      "fecha_publicacion": "1982-01-01",
+      "isbn": "9780060883287"
+    }
+  },
+  {
+    "model": "libros.libro",
+    "pk": 14,
+    "fields": {
+      "titulo": "Los detectives salvajes",
+      "autor": "Roberto Bolaño",
+      "descripcion": "Dos poetas viajan por México y el mundo tras una poeta desaparecida.",
+      "fecha_publicacion": "1998-01-01",
+      "isbn": "9788433969261"
+    }
+  },
+  {
+    "model": "libros.libro",
+    "pk": 15,
+    "fields": {
+      "titulo": "La metamorfosis",
+      "autor": "Franz Kafka",
+      "descripcion": "Un hombre se despierta convertido en insecto.",
+      "fecha_publicacion": "1915-01-01",
+      "isbn": "9788420653819"
+    }
+  },
+  {
+    "model": "libros.libro",
+    "pk": 16,
+    "fields": {
+      "titulo": "El túnel",
+      "autor": "Ernesto Sabato",
+      "descripcion": "Un pintor obsesionado narra su crimen.",
+      "fecha_publicacion": "1948-01-01",
+      "isbn": "9788432208293"
+    }
+  },
+  {
+    "model": "libros.libro",
+    "pk": 17,
+    "fields": {
+      "titulo": "Sobre héroes y tumbas",
+      "autor": "Ernesto Sabato",
+      "descripcion": "Una visión oscura del alma argentina.",
+      "fecha_publicacion": "1961-01-01",
+      "isbn": "9788432208255"
+    }
+  },
+  {
+    "model": "libros.libro",
+    "pk": 18,
+    "fields": {
+      "titulo": "Bajo la misma estrella",
+      "autor": "John Green",
+      "descripcion": "Una historia de amor entre adolescentes con cáncer.",
+      "fecha_publicacion": "2012-01-01",
+      "isbn": "9780142424179"
+    }
+  },
+  {
+    "model": "libros.libro",
+    "pk": 19,
+    "fields": {
+      "titulo": "Los juegos del hambre",
+      "autor": "Suzanne Collins",
+      "descripcion": "Una joven lucha por sobrevivir en una competencia mortal.",
+      "fecha_publicacion": "2008-09-14",
+      "isbn": "9780439023528"
+    }
+  },
+  {
+    "model": "libros.libro",
+    "pk": 20,
+    "fields": {
+      "titulo": "Orgullo y prejuicio",
+      "autor": "Jane Austen",
+      "descripcion": "Una crítica social disfrazada de historia romántica.",
+      "fecha_publicacion": "1813-01-28",
+      "isbn": "9780141439518"
+    }
+  }
+]
