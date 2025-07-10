@@ -1,8 +1,6 @@
 
 # Tarea: Investigación y Desarrollo de un CRUD con Django
 
-## Parte 1: Aplicación CRUD y Django
-
 ### 1. ¿Qué es un CRUD y cuál es su propósito en el desarrollo de aplicaciones web?
 
 CRUD es un acrónimo que representa las cuatro operaciones básicas que se pueden realizar sobre datos en una aplicación:
@@ -76,6 +74,8 @@ En resumen:
 Pero por su parecido con MVC, muchas veces se hace referencia cruzada entre ambos.
 
 ![Banner del proyecto](assets/MVC_MVT.png)
+
+
 ---
 
 ### 3. ¿Cómo se estructura un proyecto en Django?
@@ -195,6 +195,9 @@ Una vez que todo está configurado, Django genera paneles para:
 
 ---
 
+
+ 
+## Parte 2: Aplicación CRUD y Django
 ## Ejecución del Proyecto
 
 Tras la ejecución de todos los pasos indicados en:
@@ -202,8 +205,9 @@ Tras la ejecución de todos los pasos indicados en:
 ```
 https://github.com/Factoria-F5-madrid/CRUD-django/
 ```
-1. Obtendremos una imagen como la siguiente:
+
+Obtendremos una imagen como la siguiente:
 
 
 ![Banner del proyecto](assets/admin_console.png)
-# Tarea_CRUD_Django-alfonso
+
